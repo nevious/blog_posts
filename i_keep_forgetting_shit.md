@@ -5,7 +5,7 @@ author: Nevi
 slug: i-keep-forgetting-shit
 description: |
     Building a strategy to avoid being bored when time is available for doing things that are enjoyable
-category:
+tags:
   - life
   - how2adult
 splash: https://snap.nevious.ch/store/todo-splash

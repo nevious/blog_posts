@@ -3,7 +3,7 @@ title: Launch!
 author: Nevi
 date: 2026-02-19
 slug: launch-blog
-category:
+tags:
   - Life
 description: "Launching a blog to document going through life..."
 splash: https://snap.nevious.ch/store/istok-cover

@@ -4,7 +4,7 @@ slug: belpberg-august-26
 date: 2026-08-29
 author: Nevi
 description: Saturday Stroll
-category:
+tags:
   - hiking
 # edit: https://s.geo.admin.ch/t55w05e21tw0
 ---

@@ -4,7 +4,7 @@ slug: interesting-things
 date: 2026-08-08
 author: Nevi
 description: Just a list of somewhat interesting things
-category:
+tags:
   - misc
   - interesting
 ---
