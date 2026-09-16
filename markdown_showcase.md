@@ -96,6 +96,21 @@ fn main() {
 
 ![Placeholder Image](https://images.pexels.com/photos/32396274/pexels-photo-32396274.jpeg)
 
+## Native gallery test
+
+
+::: gallery
+![Image 1](https://placehold.co/400x300/222327/72ccEB.webp?font=noto-sans&text=image1)
+![Image 2](https://placehold.co/500x232/222327/72ccEB.webp?font=noto-sans&text=image2)
+![Image 3](https://placehold.co/600x250/222327/72ccEB.webp?font=noto-sans&text=image3)
+![Image 4](https://placehold.co/200x200/222327/72ccEB.webp?font=noto-sans&text=image4)
+![Image 6](https://placehold.co/4032x3024/222327/72ccEB.webp?font=noto-sans&text=image6)
+![Image 7](https://placehold.co/3024x4032/222327/72ccEB.webp?font=noto-sans&text=image7)
+![Image 8](https://placehold.co/1600x1200/222327/72ccEB.webp?font=noto-sans&text=image8)
+![Image 9](https://placehold.co/1920x1080/222327/72ccEB.webp?font=noto-sans&text=image9)
+![Image 10](https://placehold.co/1080x1920/222327/72ccEB.webp?font=noto-sans&text=image10)
+:::
+
 ## Horizontal Rule
 
 Above is an image, and below is a horizontal rule.
