@@ -3,8 +3,9 @@ title: Markdown showcase
 author: Gemini
 data: 2026-07-08
 slug: showcase
-category:
+tags:
   - testing
+  - showcase
 description: Just a generated markdown showcase
 ---
 # Markdown Showcase
