@@ -6,7 +6,7 @@ slug: i-keep-forgetting-shit
 description: |
     Building a strategy to avoid being bored when time is available for doing things that are enjoyable
 tags:
-  - life
+  - live
   - how2adult
 splash: https://snap.nevious.ch/store/todo-splash
 ---
