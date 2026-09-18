@@ -14,6 +14,8 @@ A 8-day trip to Scotland shortly after the [Edinburgh Festival Fringe](https://e
 
 We came back thinking _"If people were more like the Scots, the world would probably be a better place"_. It can be as easy as _"Hey! How are you guys?"_.
 
+Credit to the entire trip goes to the missus, who planned, booked and prepped the entire thing. All _I_ had to do was sit in a plane.
+
 ## Edinburgh
 
 One of the friendliest and most inclusive cities I've visited. We were introduced to Scotland by an old lady bumping her trolley into us followed by "Oh dear I apologize". This sort of genuine friendliness kept resonating throughout our trip and has made us deeply appreciative of the Scottish people.
@@ -70,7 +72,7 @@ Stirling castle is also worth the visit. It's another place for history-nerds ce
 ![Edinburgh|Statue of Walter Francis Montagu Douglas Scott in front of St. Giles Cathedral](https://snap.nevious.ch/store/sco-edinburgh-2)
 ![Edinburgh|Port of Leith Distillery](https://snap.nevious.ch/store/sco-distillery)
 ![Edinburgh|More civil disobedience with Sherlock Holmes](https://snap.nevious.ch/store/sco-sherlock)
-![Edinburgh|Platform 41 Paintings](https://snap.nevious.ch/store/sco-platform-41-paintings)
+![Edinburgh|Platform 41 Paintings](https://snap.nevious.ch/store/sco-platform-41-painting)
 
 ![Blackness Castle](https://snap.nevious.ch/store/sco-blackness-1)
 
