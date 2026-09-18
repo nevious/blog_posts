@@ -4,7 +4,7 @@ slug: scotland-2026
 date: 2026-09-16
 author: Nevi
 description: All about our short trip to Scotland
-splash: https://snap.nevious.ch/store/sco-platform-41-painting
+splash: https://snap.nevious.ch/store/sco-edinburgh-1
 tags:
   - travel
   - live
